@@ -3,7 +3,7 @@ const head = document.getElementById('head');
 const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 const config = {
-  birthdate: 'Nov 29, 2023',
+  birthdate: 'Nov 25, 2023',
   name: 'Sam'
 };
 
