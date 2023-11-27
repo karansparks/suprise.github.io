@@ -158,17 +158,20 @@ li span {
 .step-2  .video{
   display:block;
   position:absolute;
-  left:-30px;
+  left:10px;
+  right:10px;
   }
 .step-3 .video{
 display:block;
 position:absolute;
-  left:-30px;
+  left:10px;
+  right:10px
 }
 .step-4 .video{
   display:block;
   position:absolute;
-  left:-30px;
+  left:10px;
+  right:10px;
   }
 .step-3 .giftbox, .step-4 .giftbox {
   opacity: 0;
