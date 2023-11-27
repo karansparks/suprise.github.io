@@ -3,8 +3,13 @@
   margin: 0;
   padding: 0;
 }
+
 body{
   height:100vh !important;
+  cursor: pointer;
+  user-select: none;
+  overflow: hidden;
+  
 }
 canvas {
   position: absolute;
